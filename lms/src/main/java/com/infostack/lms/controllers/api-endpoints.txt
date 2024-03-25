@@ -1,0 +1,17 @@
+1. To fetch all books data 
+localhost:8000/book/api/fetch
+
+2. To fetch single book data
+localhost:8000/book/api/fetch/{id}
+
+3. To delete a book
+localhost:8000/book/api/delete/{id}
+
+4. To insert a book
+localhost:8000/book/api/add
+
+5. To update a book
+localhost:8000/book/api/update
+
+
+
